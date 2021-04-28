@@ -1,3 +1,9 @@
+Unreleased
+=====
+
+* [#238](https://github.com/serokell/universum/issues/238):
+  Add `fromList`.
+
 1.7.2
 =====
 

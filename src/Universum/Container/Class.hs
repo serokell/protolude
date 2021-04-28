@@ -11,6 +11,7 @@
 {-# LANGUAGE UndecidableInstances    #-}
 
 {-# OPTIONS_GHC -fno-warn-unticked-promoted-constructors #-}
+{-# OPTIONS_GHC -Wno-unused-type-patterns #-}
 
 -- | Reimagined approach for 'Foldable' type hierarchy. Forbids usages
 -- of 'length' function and similar over 'Maybe' and other potentially unsafe
